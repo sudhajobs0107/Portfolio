@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.58a0c615.css",
+    "main.js": "/Portfolio/static/js/main.42f8136e.js",
+    "static/media/2-tier.gif": "/Portfolio/static/media/2-tier.538c5a5cbb321f3d586e.gif",
+    "static/media/Hero.png": "/Portfolio/static/media/Hero.16aa429d24d23d2237de.png",
+    "static/media/DevSecOps-ToDo-App.gif": "/Portfolio/static/media/DevSecOps-ToDo-App.35a1d85d9d1e8e2a05fd.gif",
+    "static/media/kalinga.jpg": "/Portfolio/static/media/kalinga.6e37828676341f8d183c.jpg",
+    "static/media/Kubernetes.png": "/Portfolio/static/media/Kubernetes.35eb60a54b18c891a70b.png",
+    "static/media/github-actions.jpg": "/Portfolio/static/media/github-actions.4b92d1cd65fc86b07faf.jpg",
+    "static/media/shell-script.jpg": "/Portfolio/static/media/shell-script.d7fc54b329f3722a545a.jpg",
+    "static/media/my_logo.png": "/Portfolio/static/media/my_logo.e37f095872edf14c13b5.png",
+    "static/media/sonai.jpg": "/Portfolio/static/media/sonai.26277972f125e63a40fa.jpg",
+    "static/media/Subharti.jpg": "/Portfolio/static/media/Subharti.b27f355f9299c578854a.jpg",
+    "static/media/sadhana.jpg": "/Portfolio/static/media/sadhana.d9da1dd58312fd408f08.jpg",
+    "static/media/hashnode.svg": "/Portfolio/static/media/hashnode.6adbfec11fbda58da50687a8aa6e1c3b.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.58a0c615.css.map": "/Portfolio/static/css/main.58a0c615.css.map",
+    "main.42f8136e.js.map": "/Portfolio/static/js/main.42f8136e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.42f8136e.js"
+  ]
+}
